@@ -4,20 +4,17 @@ Bienvenido al maravilloso mundo del machine learning! Antes de ponernos comodos 
 
 
 
-# Table of Contents
-1. [Example](#example)
-2. [Example2](#example2)
-3. [Third Example](#third-example)
-4. [Fourth Example](#fourth-examplehttpwwwfourthexamplecom)
-
-
-## Example
-## Example2
-## Third Example
-
-
-
-1. [Example](#Datasets)
+1. [Datasets](#Datasets)
+2. [Imagenes y video](#Imagenes y video)
+3. [Variables categoricas](#Variables categoricas)
+4. [Datasets](#Datasets)
+5. [Datasets](#Datasets)
+6. [Datasets](#Datasets)
+7. [Datasets](#Datasets)
+8. [Datasets](#Datasets)
+9. [Datasets](#Datasets)
+1. [Datasets](#Datasets)
+1. [Datasets](#Datasets)
 
 * Datasets
 * Imagenes y video
