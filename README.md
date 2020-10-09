@@ -4,7 +4,7 @@ Bienvenido al maravilloso mundo del machine learning! Antes de ponernos comodos 
 
 
 
-1. [Datasets](#Datasets)
+* [Datasets](#Datasets)
 2. [Imagenes y video](#Imagenes-y-video)
 3. [Variables categoricas](#Variables-categoricas)
 4. [Regresion Lineal](#Regresion-Lineal)
