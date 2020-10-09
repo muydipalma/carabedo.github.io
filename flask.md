@@ -2,10 +2,8 @@
 
 Existen varias maneras de poner nuestros modelos en produccion, aca vamos a ver dos.
 
-* FLASK
-* STREAMLIT
-
-
+* [Flask](#flask)
+* [Streamlit](#streamlit)
 
 
 ### Flask
