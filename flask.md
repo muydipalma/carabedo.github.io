@@ -1,14 +1,14 @@
 # Flask, Streamlit, Heroku
 
-La idea de la clase es mostrar 2 maneras de poner nuestro modelito o rutina de python online.
+Existen varias maneras de poner nuestros modelos en produccion, aca vamos a ver dos.
 
-* en la practica 1 explicamos el modelito que usamos de excusa para aprender FLASK y STREAMLIT
-* en la practica 2 creamos nuestras apps en flask 
-* en la practica 3 accedemos a nuestra app de flask y motivamos el uso de streamlit
+* FLASK
+* STREAMLIT
 
-En practica 3 vemos el tipo de interaccion con usuarios que nos permite flask, hay que mirar esos codigos y en simultaneo vamos levantando esos servidores en la practica 2.
 
-### 1 flask
+
+
+### Flask
 
 la estructura mas basica de una app de flask:
 
@@ -26,7 +26,8 @@ Debemos poner todo esto en un archivo.py y ejecutarlo desde la consola:
 python archivo.py
 ``` 
 
-### 2 streamlit
+### Streamlit
+
 Las apps de streamlit, son mas simples, es un script de python normal y vamos insertando los widgets que necesitamos en el cuerpo del script. Aca una lista de los widgets disponibles https://docs.streamlit.io/api.html
 Un ejemplo basico:
 
@@ -49,12 +50,27 @@ streamlit run archivo.py
 
 
 
-### 3 Heroku [tutorial](https://github.com/carabedo/flask_streamlit/blob/master/Heroku.pdf): 
+### Heroku 
 
-una vez que nuestras apps de streamlit funcionen como queremos, ya podemos subirlas. para crear la maquia virtual en heroku, tenemos que especificar la version de python y de las librerias presentes en nuestra app, esto lo hacemos en los archivos requirements y runtime. heroku tiene su propia aplicacion para interactuar con los archivos, yo prefiero que este sincronizado con mis repositorios en github, para esto primero nos creamos una cuenta en github, luego creamos un repositorio y ponemos los 5 archivos necesarios:
 
-**nuestra app_st.py y cuatro archivos mas:**
+Una vez que nuestras apps de streamlit funcionen como queremos, ya podemos poner el modelo en produccion.
 
+
+1. Ir a [heroku.com](https://signup.heroku.com/) y registrarse.
+2. Confirmar mail, crear contraseña y logearse.
+3. Crear nueva app [aca](https://dashboard.heroku.com/new-app).
+4. En el menu de la APP, ir a deploy method y seleccionar connect to hithub.
+5. Asociar heroku con su cuenta de github, buscar el repositorio donde tenemos nuestra app y conectar.
+6. Seleccionaremos automatic deploys para que se actualice automáticamente las versiones de nuestra app, y por ultimo le damos a DEPLOY BRANCH.
+
+
+Para crear la maquia virtual en heroku, tenemos que especificar la version de python y de las librerias presentes en nuestra app, esto lo hacemos en los archivos requirements y runtime que estan en el repositorio de github que asociamos a nuestra APP de heroku.
+
+
+
+Ejemplo del contenido de estos archivos esta en:
+
+https://github.com/carabedo/geopami
 
 ```bash
 app_st.py
@@ -63,13 +79,8 @@ runtime.txt
 Procfile
 create_config.sh
 ``` 
-revisen siempre los nombres de los archivos y los contenidos, si en creat_config.sh habla de un app.py y su app se llama app_st.py, tienen que cambiarlo.
 
 
-ejemplos del contenido de estos archivos esta en:
-
-https://github.com/carabedo/geopami
-
-esta app esta funcionando en:
+Esta app esta funcionando en:
 
 https://geopami.herokuapp.com/
