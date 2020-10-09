@@ -7,24 +7,12 @@ Bienvenido al maravilloso mundo del machine learning! Antes de ponernos comodos 
 1. [Datasets](#Datasets)
 2. [Imagenes y video](#Imagenes-y-video)
 3. [Variables categoricas](#Variables-categoricas)
-4. [Datasets](#Datasets)
-5. [Datasets](#Datasets)
-6. [Datasets](#Datasets)
-7. [Datasets](#Datasets)
-8. [Datasets](#Datasets)
-9. [Datasets](#Datasets)
-1. [Datasets](#Datasets)
-1. [Datasets](#Datasets)
-
-* Datasets
-* Imagenes y video
-* Variables categoricas
-* Regresion Lineal 
-* Regularizacion
-* PCA y dimensionalidad
-* Text-mining
-* Sistemas de recomendacion
-* Inteligencia artificial
+4. [Regresion Lineal](#Regresion-Lineal)
+5. [Regularizacion](#Regularizacion)
+6. [PCA y dimensionalidad](#PCA-y-dimensionalidad)
+7. [Text-mining](#Text-mining)
+8. [Sistemas de recomendacion](#Sistemas-de-recomendacion)
+9. [Inteligencia artificial](#Inteligencia-artificial)
 
 
 ### Datasets 
