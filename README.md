@@ -5,8 +5,8 @@ Bienvenido al maravilloso mundo del machine learning! Antes de ponernos comodos 
 
 
 1. [Datasets](#Datasets)
-2. [Imagenes y video](#Imagenes y video)
-3. [Variables categoricas](#Variables categoricas)
+2. [Imagenes y video](#Imagenes-y-video)
+3. [Variables categoricas](#Variables-categoricas)
 4. [Datasets](#Datasets)
 5. [Datasets](#Datasets)
 6. [Datasets](#Datasets)
