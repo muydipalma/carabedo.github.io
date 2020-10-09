@@ -1,4 +1,4 @@
-# Por que necesitamos Algebra Lineal en Machine Learning?
+# Algebra Lineal y Machine Learning.
 
 Bienvenido al maravilloso mundo del machine learning! Antes de ponernos comodos veamos algunos ejemplos incomodos donde se nos manifiesta la imperiosa necesidad de usar elementos del algebra lineal. La idea de este articulo es motivar con ejemplos concretos el por que necesitamos entender y conocer sobre: vectores, matrices, tranformaciones lineales, etc...
 
