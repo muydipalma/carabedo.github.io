@@ -5,14 +5,14 @@ Bienvenido al maravilloso mundo del machine learning! Antes de ponernos comodos 
 
 
 * [Datasets](#Datasets)
-2. [Imagenes y video](#Imagenes-y-video)
-3. [Variables categoricas](#Variables-categoricas)
-4. [Regresion Lineal](#Regresion-Lineal)
-5. [Regularizacion](#Regularizacion)
-6. [PCA y dimensionalidad](#PCA-y-dimensionalidad)
-7. [Text-mining](#Text-mining)
-8. [Sistemas de recomendacion](#Sistemas-de-recomendacion)
-9. [Inteligencia artificial](#Inteligencia-artificial)
+* [Imagenes y video](#Imagenes-y-video)
+* [Variables categoricas](#Variables-categoricas)
+* [Regresion Lineal](#Regresion-Lineal)
+* [Regularizacion](#Regularizacion)
+* [PCA y dimensionalidad](#PCA-y-dimensionalidad)
+* [Text-mining](#Text-mining)
+* [Sistemas de recomendacion](#Sistemas-de-recomendacion)
+* [Inteligencia artificial](#Inteligencia-artificial)
 
 
 ### Datasets 
