@@ -2,6 +2,21 @@
 
 Bienvenido al maravilloso mundo del machine learning! Antes de ponernos comodos veamos algunos ejemplos incomodos donde se nos manifiesta la imperiosa necesidad de usar elementos del algebra lineal. La idea de este articulo es motivar con ejemplos concretos el por que necesitamos entender y conocer sobre: vectores, matrices, tranformaciones lineales, etc...
 
+
+
+# Table of Contents
+1. [Example](#example)
+2. [Example2](#example2)
+3. [Third Example](#third-example)
+4. [Fourth Example](#fourth-examplehttpwwwfourthexamplecom)
+
+
+## Example
+## Example2
+## Third Example
+## [Fourth Example](http://www.fourthexample.com) 
+
+
 * Datasets
 * Imagenes y video
 * Variables categoricas
